@@ -5,5 +5,8 @@ branches:
 projects:
   Nickname-Colors:
     path: ""
+    libs:
+      - src: Vecnavium/FormsUI/FormsUI
+        version: ^1.0.0
 
 ...
