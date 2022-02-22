@@ -1,0 +1,17 @@
+# NicknameColors Plugin for PocketMine-MP Config File!
+# Plugin Created in 9/21/20 By MulqiAki192
+
+form-api-usage: "true"
+# Disable and Enable FormAPI
+
+# view the change-log in my discord server! make sure to join
+
+cmd-not-player: "§cYou are in console, run this command in the game!"
+# set the message if the sender of the command is a console
+
+no-permission-command: "§cYou Dont Have Permission To Use This Command"
+# set the message if the player is doesn't have permission to use /ncolors command
+
+no-permission-using-this-color: "§cYou dont have permission to use this color"
+# set the message if the player doesn't have permission to use some colors
+
