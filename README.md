@@ -1,7 +1,9 @@
 # Nickname-Colors
 A PocketMine-MP Plugin that allow you to change your nickname to specific colors
-[![](https://poggit.pmmp.io/shield.state/NicknameColors)](https://poggit.pmmp.io/p/NicknameColors)
 
+[![](https://poggit.pmmp.io/shield.state/NicknameColors)](https://poggit.pmmp.io/p/NicknameColors)
+[![](https://poggit.pmmp.io/shield.api/NicknameColors)](https://poggit.pmmp.io/p/NicknameColors)
+[![](https://poggit.pmmp.io/shield.dl/NicknameColors)](https://poggit.pmmp.io/p/NicknameColors)
 
 # Commands
 /ncolors = For Opening Nickname Colors Menu
